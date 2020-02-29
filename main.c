@@ -19,7 +19,6 @@ int min_element(int* arr, int size)
 void print_array(int* arr, int size)
 {
 
-    const int min = min_element(arr, 10);
 
     printf("Array: ");
     int i;
